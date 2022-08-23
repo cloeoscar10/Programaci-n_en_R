@@ -1,3 +1,2 @@
-Primera línea
-
-Segunda línea
+Primera línea  
+Segunda línea  
